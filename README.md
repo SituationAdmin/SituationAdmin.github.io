@@ -22,7 +22,3 @@ Situation-RE will treat every lua file within the folder as a function, whatever
 The name of the file will be what the command is called for example if the file is named "HelloWorld.lua" or "HelloWorld.txt" to run the command you would type "HelloWorld" in the input, commands are not case sensitive therefore you could also type "HeLLoWoRLd" and the command would still run.
 </p>
 
-<h1>Thank you to our contributors</h>
-
-[![contributors](https://contributors-img.web.app/image?repo=Teemsploit/Situation-RE)](https://github.com/Teemsploit/Situation-RE/graphs/contributors)<br>
-
